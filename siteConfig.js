@@ -1,23 +1,23 @@
 module.exports = {
-  siteUrl: "http://rarecuration.com", // Site domain. Do not include a trailing slash!
+  siteUrl: "http://pridemusica.com", // Site domain. Do not include a trailing slash!
 
   postsPerPage: 12, // Number of posts shown on paginated pages (changes this requires sometimes to delete the cache)
 
-  siteTitleMeta: "rarecuration", // This allows an alternative site title for meta data for pages.
+  siteTitleMeta: "pridemusica", // This allows an alternative site title for meta data for pages.
   siteDescriptionMeta:
-    "rarecuration", // This allows an alternative site description for meta data for pages.
+    "pridemusica", // This allows an alternative site description for meta data for pages.
 
   shareImageWidth: 1000, // Change to the width of your default share image
   shareImageHeight: 523, // Change to the height of your default share image
 
-  shortTitle: "rarecuration", // Used for App manifest e.g. Mobile Home Screen
+  shortTitle: "pridemusica", // Used for App manifest e.g. Mobile Home Screen
   siteIcon: "favicon.png", // Logo in /static dir used for SEO, RSS, and App manifest
   backgroundColor: "#e9e9e9", // Used for Offline Manifest
   themeColor: "#15171A", // Used for Offline Manifest
   apiUrl: "https://wordpress.theasdfghjkl.com",
   subscribeWidget: {
     visible: false,
-    title: "rarecuration",
+    title: "pridemusica",
     helpText: "הישארו מעודכנים",
     successMessage: "תודה ההודעה נשלחה בהצלחה",
   },
@@ -25,11 +25,11 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://rarecuration.com/",
+        url: "https://pridemusica.com/",
       },
       {
         label: "יצירת קשר",
-        url: "https://rarecuration.com/contact",
+        url: "https://pridemusica.com/contact",
       },
     ],
   },
@@ -38,16 +38,16 @@ module.exports = {
     navigation: [
       {
         label: "דף הבית",
-        url: "https://rarecuration.com/",
+        url: "https://pridemusica.com/",
       },
       {
         label: "Sitemap",
-        url: "https://rarecuration.com/sitemap.xml",
+        url: "https://pridemusica.com/sitemap.xml",
       },
       
       {
         label: "יצירת קשר",
-        url: "https://rarecuration.com/contact",
+        url: "https://pridemusica.com/contact",
       },
                  
        {
@@ -75,9 +75,9 @@ module.exports = {
     successMessage: "We’ll get in touch with you soon.",
   },
   metadata: {
-    title: "Rarecuration",
+    title: "pridemusica",
     description:
-      "Rarecuration",
+      "pridemusica",
   },
   twitterCard: {
     title: "",
@@ -87,15 +87,15 @@ module.exports = {
     username: "@DraftboxHQ",
   },
   facebookCard: {
-    title: "rarecuration",
+    title: "pridemusica",
     description:
       "Lightning fast, 1t on Gatsby.",
     imageUrl: "facebookImage.png",
     appId: "2391725224459953",
   },
-  siteTitle: "Rarecuration",
+  siteTitle: "pridemusica",
   siteDescription:
-    "Rarecuration",
+    "pridemusica",
   language: "he",
   logoUrl: "",
   iconUrl: "",
