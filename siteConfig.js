@@ -50,11 +50,6 @@ module.exports = {
         url: "https://pridemusica.com/contact",
       },
                  
-       {
-        label: "Movefix",
-        url: "https://movefix.co.il",
-      },
-      
     ],
   },
   socialLinks: {
